@@ -12,7 +12,8 @@
     "@modelcontextprotocol/sdk": "^1.12.3",
     "destroyer": "^0.0.0",
     "google-auth-library": "^10.1.0",
-    "open": "^10.1.2"
+    "open": "^10.1.2",
+    "server-destroy": "^1.0.1"
   },
   "type": "module"
 }
